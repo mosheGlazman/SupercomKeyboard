@@ -74,6 +74,14 @@
                 latin:keySpec="p"
                 latin:keyHintLabel="}"
                 latin:additionalMoreKeys="!text/keyspec_right_curly_bracket" />
+            <Key
+                latin:keySpec="ă"
+                latin:keyHintLabel="0"
+                latin:additionalMoreKeys="0" />
+            <Key
+                latin:keySpec="î" />
+            <Key
+                latin:keySpec="â" />
         </case>
         <case latin:showNumberRow="true">
             <Key
@@ -105,6 +113,14 @@
                 latin:moreKeys="!text/morekeys_o" />
             <Key
                 latin:keySpec="p" />
+            <Key
+                latin:keySpec="ă"
+                latin:keyHintLabel="0"
+                latin:additionalMoreKeys="0" />
+            <Key
+                latin:keySpec="î"/>
+            <Key
+                latin:keySpec="â"/>
         </case>
         <default>
             <Key
@@ -138,24 +154,27 @@
                 latin:additionalMoreKeys="6"
                 latin:moreKeys="!text/morekeys_y" />
             <Key
-                latin:keySpec="u"
+                latin:keySpec="i"
                 latin:keyHintLabel="7"
                 latin:additionalMoreKeys="7"
-                latin:moreKeys="!text/morekeys_u" />
-            <Key
-                latin:keySpec="i"
-                latin:keyHintLabel="8"
-                latin:additionalMoreKeys="8"
                 latin:moreKeys="!text/morekeys_i" />
             <Key
                 latin:keySpec="o"
-                latin:keyHintLabel="9"
-                latin:additionalMoreKeys="9"
+                latin:keyHintLabel="8"
+                latin:additionalMoreKeys="8"
                 latin:moreKeys="!text/morekeys_o" />
             <Key
                 latin:keySpec="p"
+                latin:keyHintLabel="9"
+                latin:additionalMoreKeys="9" />
+            <Key
+                latin:keySpec="ă"
                 latin:keyHintLabel="0"
                 latin:additionalMoreKeys="0" />
+            <Key
+                latin:keySpec="î"/>
+            <Key
+                latin:keySpec="â"/>
         </default>
     </switch>
 </merge>
