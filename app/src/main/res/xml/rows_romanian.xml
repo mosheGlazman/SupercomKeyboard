@@ -20,13 +20,13 @@
 
 <merge xmlns:latin="http://schemas.android.com/apk/res-auto">
     <Row
-        latin:keyWidth="10%p"
+        latin:keyWidth="8.3%p"
     >
         <include
             latin:keyboardLayout="@xml/rowkeys_romanian1" />
     </Row>
     <Row
-        latin:keyWidth="10%p"
+        latin:keyWidth="8.3%p"
     >
         <include
             latin:keyboardLayout="@xml/rowkeys_romanian2"

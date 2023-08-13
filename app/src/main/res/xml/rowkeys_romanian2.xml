@@ -66,6 +66,10 @@
                 latin:keyHintLabel=")"
                 latin:additionalMoreKeys=")"
                 latin:moreKeys="!text/morekeys_l" />
+            <Key
+                latin:keySpec="ș" />
+            <Key
+                latin:keySpec="ț" />
         </case>
         <default>
             <Key latin:keySpec="a"
@@ -93,6 +97,10 @@
             <Key
                 latin:keySpec="l"
                 latin:moreKeys="!text/morekeys_l" />
+            <Key
+                latin:keySpec="ș" />
+            <Key
+                latin:keySpec="ț" />
         </default>
     </switch>
 </merge>
