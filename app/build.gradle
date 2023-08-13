@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 33
+    buildToolsVersion '33.0.2'
+    defaultConfig {
+        applicationId "com.supercom.keyborad"
+        minSdkVersion 19
+        targetSdkVersion 33
+        versionCode 100
+        versionName "5.15"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    namespace 'com.supercom.keyborad'
+}
+
+dependencies {
+}
