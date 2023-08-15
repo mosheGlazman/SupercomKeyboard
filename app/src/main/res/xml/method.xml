@@ -21,7 +21,7 @@
 <!-- for the Input Method Manager. -->
 
 <input-method xmlns:android="http://schemas.android.com/apk/res/android"
-        android:settingsActivity="com.supercom.keyborad.latin.settings.SettingsActivity"
+        android:settingsActivity="com.supercom.keyboard.latin.settings.SettingsActivity"
         android:supportsSwitchingToNextInputMethod="true">
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
         android:imeSubtypeMode="keyboard"

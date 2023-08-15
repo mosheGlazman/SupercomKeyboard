@@ -16,7 +16,7 @@
 #   public *;
 #}
 
--keep class com.supercom.keyborad.R
--keep class com.supercom.keyborad.latin.settings.SettingsFragment
--keep class com.supercom.keyborad.latin.settings.LanguagesSettingsFragment
--keep class com.supercom.keyborad.latin.settings.SingleLanguageSettingsFragment
+-keep class com.supercom.keyboard.R
+-keep class com.supercom.keyboard.latin.settings.SettingsFragment
+-keep class com.supercom.keyboard.latin.settings.LanguagesSettingsFragment
+-keep class com.supercom.keyboard.latin.settings.SingleLanguageSettingsFragment

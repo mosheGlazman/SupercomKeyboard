@@ -4,7 +4,7 @@ android {
     compileSdkVersion 33
     buildToolsVersion '33.0.2'
     defaultConfig {
-        applicationId "com.supercom.keyborad"
+        applicationId "com.supercom.keyboard"
         minSdkVersion 19
         targetSdkVersion 33
         versionCode 230813151
@@ -15,7 +15,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'com.supercom.keyborad'
+    namespace 'com.supercom.keyboard'
 }
 
 dependencies {
